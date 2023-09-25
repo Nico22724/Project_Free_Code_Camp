@@ -1,5 +1,3 @@
-#TypeError: unsupported operand type(s) for -: 'dict' and 'dict'
-
 import numpy as np
 
 def calculate(lista):
